@@ -14,6 +14,13 @@ Inventory tool
 7. test out connection to postgres/mysql db
 8. ... fill out more when you get here....
 
+## structure...
+
+- Index
+  - Searchable Inventory (Auth Staff/Office)
+  - Editable Inventory (Auth Office)
+  -
+
 ## Getting Started
 
 First, run the development server:

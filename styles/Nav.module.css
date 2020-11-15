@@ -1,0 +1,27 @@
+.nav {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.nav-header {
+  font-weight: 600;
+  background: #333;
+  color: #fff;
+  padding: 0.3rem;
+  margin-right: 1rem;
+}
+
+.nav ul {
+  display: flex;
+  width: 100%;
+  padding-inline-start: 0;
+  align-items: center;
+}
+.nav li {
+  list-style: none;
+}
+
+.link-divider {
+  margin: 0 0.5rem;
+}
